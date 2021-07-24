@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+body{background: url("background.jpg.jpg") repeat-y scroll;
+    background-size: 100%;
+  }
+
+h1{
+    text-align: center;
+    stroke-width: 50px;
+    color: #F2D338;
+    stroke-opacity: 100%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 400%;
+    -webkit-text-stroke-width:1px;
+    -webkit-text-stroke-color:black;
+} 
+img{
+    width: 80%;
+    max-width:800px;
+    margin: 10px 0px;
+    vertical-align: middle;
+}
+.im{
+    text-align: center;
+}
+.im p{
+    font-size: 150%;
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Zilla Slab', serif;
+    color: white;text-align: center;
+    -webkit-text-stroke-width:0.4px;
+    -webkit-text-stroke-color:black;
+}
+.vid{
+    text-align: center;
+    
+
+}
+ .vide{
+    width: 80%; 
+    max-width: 800px;
+} 
+.blo{
+    color: white;
+    font-size: 150%;
+    font-family: 'Zilla Slab', serif;
+}
